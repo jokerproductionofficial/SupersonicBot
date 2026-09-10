@@ -1,0 +1,23 @@
+# Database
+bomb_bot.db
+
+# Environment Variables
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+pip-log.txt
+pip-delete-this-directory.txt
+.venv/
+.env/
+
+# IDEs
+.vscode/
+.ide
+a/
